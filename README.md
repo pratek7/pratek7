@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratek7&label=Profile%20views&color=0e75b6&style=flat" alt="pratek7" /> </p>
 
+🔭 I’m currently working as a software Development.
+
+🌱 I’m currently learning Cyber Security <img align="right" alt="Coding" width="50" src="https://i.gifer.com/3Eqa.gif"/>
+
 - 💬 Ask me about **React, Node, mySQL, Linux.**
 
 - 📫 How to reach me **pratikjungkarki123@gmail.com**
