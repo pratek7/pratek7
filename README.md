@@ -5,7 +5,7 @@
 
 🔭 I’m currently working as a software Development.
 
-🌱 I’m currently learning Cyber Security <img align="right" alt="Coding" width="50" src="https://i.gifer.com/3Eqa.gif"/>
+🌱 I’m currently learning Cyber Security <img  alt="Coding" width="100" src="https://i.gifer.com/3Eqa.gif"/>
 
 - 💬 Ask me about **React, Node, mySQL, Linux.**
 
