@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratek7&label=Profile%20views&color=0e75b6&style=flat" alt="pratek7" /> </p>
-<img  alt="Coding" width="300"  src="https://i.gifer.com/3Eqa.gif"/>
+
 🔭 I’m currently working as a software Development.
 
 🌱 I’m currently learning Cyber Security 
