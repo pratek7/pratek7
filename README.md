@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratek7&label=Profile%20views&color=0e75b6&style=flat" alt="pratek7" /> </p>
 
- <img src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' alt='coding' width='300' /> 
+ <img align="right" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' alt='coding' width='300' /> 
 
-🔭 I’m currently working as a software Development.
+- 🔭 I’m currently working as a software Development.
 
-🌱 I’m currently learning Cyber Security 
+- 🌱 I’m currently learning Cyber Security  <img align='center' src='https://i.gifer.com/embedded/download/3HeI.gif' alt='coding' width='50' /> 
 
 - 💬 Ask me about **React, Node, mySQL, Linux.**
 
